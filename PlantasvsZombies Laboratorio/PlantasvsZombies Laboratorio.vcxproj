@@ -130,6 +130,7 @@
     <ClCompile Include="cjp.cpp" />
     <ClCompile Include="Cristian.cpp" />
     <ClCompile Include="diego.cpp" />
+    <ClCompile Include="Jhonny.cpp" />
     <ClCompile Include="miguel.cpp" />
     <ClCompile Include="PlantasvsZombies Laboratorio.cpp" />
   </ItemGroup>
@@ -137,6 +138,7 @@
     <ClInclude Include="cjp.h" />
     <ClInclude Include="Cristian.h" />
     <ClInclude Include="diego.h" />
+    <ClInclude Include="Jhonny.h" />
     <ClInclude Include="miguel.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
